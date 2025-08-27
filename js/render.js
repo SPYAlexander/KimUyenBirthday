@@ -7,6 +7,15 @@ var S = {
         var textToDisplay = [
             "#countdown 3",
             "Hi Nguyễn Ngọc Kim Uyên",
+            "Mình là Minh Khang đây",
+            "Happy birthday Kim Uyên",
+            "Happy birthday Kim Uyên",
+            "Happy birthday Kim Uyên",
+            "Happy birthday Kim Uyên",
+            "Happy birthday Kim Uyên",
+            "Happy birthday Kim Uyên",
+            "Happy birthday Kim Uyên",
+            "Happy birthday Kim Uyên",
             "Happy birthday Kim Uyên",
             "#time"
         ];
