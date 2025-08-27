@@ -6,7 +6,7 @@ var S = {
         // Text to display with delays
         var textToDisplay = [
             "#countdown 3",
-            "Hi အိန္ဒြေ",
+            "Hi Nguyễn Ngọc Kim Uyên",
             "Happy birthday Kim Uyên",
             "#time"
         ];
