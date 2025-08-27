@@ -6,17 +6,8 @@ var S = {
         // Text to display with delays
         var textToDisplay = [
             "#countdown 3",
-            "Hi Nguyễn Ngọc Kim Uyên",
-            "Mình là Minh Khang đây",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
-            "Happy birthday Kim Uyên",
+            "Hi my baby Jolie Kim",
+            "I wish you a happy birthday ^^",
             "#time"
         ];
 
